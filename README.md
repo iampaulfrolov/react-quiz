@@ -1,4 +1,4 @@
-# [React-quiz](https://quizapp-57505.web.app/)
+# [React-quiz](https://react-quiz-murex.vercel.app)
 
 This app presents the ability to take quizzes, and if you register or log in, to create your own quizzes.
 
